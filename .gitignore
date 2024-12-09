@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not .cpp
+!*.cpp
+# Nor directories
+!*/
+!.gitignore
